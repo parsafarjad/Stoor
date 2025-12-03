@@ -5,7 +5,7 @@ import Footer from "@/components/Footer/Footer";
 
 
 export const metadata: Metadata = {
-  title: "My Dashboard",
+  title: "Stoor Dashboard",
   description: "Simple Dashboard with Next.js and Shadcn",
 };
 
